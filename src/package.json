@@ -1,0 +1,20 @@
+{
+  "name": "clinicregistry",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node ./main.js",
+    "dev": "nodemon ./main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "mqtt": "^4.2.8",
+    "node-fetch": "^2.6.6"
+  },
+  "devDependencies": {},
+  "description": "",
+  "nodemon": "^2.0.12"
+}
